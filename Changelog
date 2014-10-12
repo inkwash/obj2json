@@ -1,0 +1,5 @@
+12 Oct 2014 -Anton
+* renamed repository because it was starting with a ".obj" which is a hidden
+folder [slaps hand to head]
+* wiped entire project, replaced with simplified obj2json tool from my secret
+project

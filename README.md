@@ -1,4 +1,4 @@
-.obj-to-.json-converter
+obj2json mesh file converter
 =======================
 
 A command-line tool to convert Wavefront .obj files to .json (JavaScript
